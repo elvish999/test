@@ -1,0 +1,78 @@
+Chapter 1 - General Requirements
+100 - Application of Rules and Special Instructions
+100.1 Employees must know and comply with rules, instructions, and procedures that govern their
+duties. They must also comply with the instructions of supervisors. When there is
+uncertainty, employees must:
+	1. Take the safe course, and
+	2. Contact a supervisor for clarification.
+100.2 When rules and special instructions conflict, the following apply:
+	1. Special instructions supersede rules;
+	2. Dispatcher messages supersede special instructions and rules; and
+	3. Form EC-1 instructions supersede dispatcher messages, special instructions, and
+rules.
+100.3 Employees that have been provided a railroad supplied electronic device must have the
+device available for use and must ensure the device is:
+	1. In good working condition,
+	2. Fully charged,
+	3. Updated with the latest rule books and special instructions that are in effect, and
+	4. Powered on during the entire tour of duty in order to receive vital software updates.
+100.4 When on duty, each CSX employee must be in possession of his or her own copy of, or have
+electronic access to, the documents below. Foreign line employee operating on CSX tracks
+must have at least one of each of the below documents available for immediate use.
+	1. Rule books specified by system bulletin,
+	2. Applicable timetable instructions,
+	3. System bulletins, and
+	4. Applicable subdivision bulletins.
+100.5 CSX employees performing service on foreign line tracks are governed by the foreign line
+and must carry the rules, timetables, and special instructions of that line.
+
+100.6 When a rule book or timetable is reissued or amended, it supersedes all previous versions
+on the effective date and time. Employees must:
+	1. Obtain a copy,
+	2. Verify the document is complete, and
+	3. Have the documents available for use.
+101 - System and Division Bulletins and Notices
+101.1 Before beginning work, employees must determine if any bulletins or notices have been
+issued since their last tour of duty, and:
+	1. Read and comply with all of the bulletins that affect their tour of duty, and
+	2. Read and comply with the information contained in notices.
+101.2 The following applies to bulletins:
+	1. System bulletins implement changes in rules and system-wide operating practices,
+	2. Division bulletins implement changes in timetable special instructions, and
+	3. Procedural instruction manuals implement changes in train dispatching operating
+	practices.
+101.3 System and division bulletins and notices will:
+101.4 System bulletins will be in the following format:
+	1. There will be one System Bulletin (SB) per Section:
+		1. Operating Rules - Carried by All and Foreign Line
+		2. Dispatcher Rules - Carried by Dispatchers only
+		3. Roadway Worker Rules - Carried by Engineering Forces and Dispatchers
+		4. Safe Way - Carried by All
+		5. Equipment Handling - Carried by All and Foreign Line
+		6. Air Brake and Train Handling - Carried by All
+		7. Hazmat (HM-1) - Carried by All
+		8. Positive Train Control - Carried by Transportation when operating in PTC
+		Territory
+		9. PTC Procedural Instructions - Carried by Transportation when operating in
+		PTC Territory
+	2. Only one CSX System Bulletin per section will be in effect,
+	3. When future modifications are made to each section the previous system bulletin
+	will be cancelled, and
+	4. When a System Bulletin is issued, Item 1 will provide a summary of changes being
+	made and a listing of the bulletin numbers in effect.
+102 - CSX Standard Time
+102.1 CSX standard time is equivalent to United States Eastern Time using the 24-hour clock
+system. CSX standard time can be determined by:
+	a. Time displayed by the dispatching system, or
+	b. Contacting the control station, or
+	c. Calling RNX 388-5000 or Bell 904-381-5000.
+102.2 Employees governed by timetables, dispatcher messages, or Form EC-1 must carry a watch
+that:
+	1. Indicates hours, minutes, and seconds; and
+	2. Must not lose or gain more than one minute in a 12-hour period.
+102.3 Employees who are required to carry a watch must verify the watch is set to CSX standard
+time before beginning work activity:
+	1. The ranking employee of the crew or working group is to set his or her watch to CSX
+	standard time, and
+	2. Other members of the crew or working group are to set their watches to that of the
+	ranking employee.
